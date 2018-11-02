@@ -225,7 +225,7 @@ color:rgb(118, 118, 231);
   z-index: 1;
 }
 
-}
+
 #logo {
       color: rgb(204, 185, 185);
       float: left;
@@ -256,3 +256,4 @@ color:rgb(118, 118, 231);
   
     display:block;
   }
+}
