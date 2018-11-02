@@ -14,8 +14,9 @@ Auto Gallery*/
 } */
 #gallery1 marquee{
  height:550px;
- border:3px solid #20bcd5;s
+ border:3px solid #20bcd5;
  border-radius:5%;
+ 
 }
 #gallery1 img{
  height:550px;
