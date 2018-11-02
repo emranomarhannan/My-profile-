@@ -15,7 +15,7 @@ Auto Gallery*/
 #gallery1 marquee{
  height:550px;
  border:3px solid #20bcd5;s
- border-radius:5%;
+ border-radius:12%;
 }
 #gallery1 img{
  height:550px;
