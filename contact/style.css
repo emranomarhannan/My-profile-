@@ -224,6 +224,20 @@ color:rgb(118, 118, 231);
   position: relative;
   z-index: 1;
 }
+
+}
+#logo {
+      color: rgb(204, 185, 185);
+      float: left;
+      display:inline-block;
+      padding-top: 18px;
+      padding-left:25px;
+      color: rgb(12, 73, 241);
+      text-decoration: none;
+      font-family: 'Times New Roman', Times, serif;
+      font-size: 45px;
+      padding: 16px 35px 16px 0;
+  }
 @media screen and (max-width:600px){
 
   li.link,
@@ -241,17 +255,4 @@ color:rgb(118, 118, 231);
   .menuButton{
   
     display:block;
-  }
-}
-#logo {
-      color: rgb(204, 185, 185);
-      float: left;
-      display:inline-block;
-      padding-top: 18px;
-      padding-left:25px;
-      color: rgb(12, 73, 241);
-      text-decoration: none;
-      font-family: 'Times New Roman', Times, serif;
-      font-size: 45px;
-      padding: 16px 35px 16px 0;
   }
