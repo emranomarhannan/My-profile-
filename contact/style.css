@@ -237,7 +237,16 @@ color:rgb(118, 118, 231);
       font-family: 'Times New Roman', Times, serif;
       font-size: 45px;
       padding: 16px 35px 16px 0;
+      
   }
+
+.googl{
+    float: right;
+    margin-top: 25%
+}
+
+
+
 @media screen and (max-width:600px){
 
   li.link,
