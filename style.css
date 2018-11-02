@@ -51,11 +51,16 @@ html {
       color: darkorange;
   }
   
-  @media (max-width: 320px) {
+  @media only screen and (max-width: 600px) {
     nav {
       padding-bottom: 27px;
+
+    }
+    li {
+      display: block;
     }
   }
+
   
   li:hover a{
     color: rgb(248, 140, 9);
