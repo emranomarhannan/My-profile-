@@ -1,0 +1,71 @@
+body {
+background-color: #162a33;
+ font-family:'Comfortaa';
+}
+h1, p{
+ color:white;
+ text-align:center;
+}
+
+Auto Gallery*/
+/* #gallery1 marquee, img{
+ width:100%;
+ background-color:black; 
+} */
+#gallery1 marquee{
+ height:550px;
+ border:3px solid #20bcd5;s
+ border-radius:5%;
+}
+#gallery1 img{
+ height:550px;
+ border:3px solid white;
+}
+  
+ul {
+    text-align: right;
+    padding-left: 0;
+    list-style: none;
+  }
+  @media (max-width: 320px) {
+
+  }
+  
+  li {
+    display: inline-block;
+    
+  }
+  
+  a {
+    padding: 16px 35px 16px 0;
+    color: #fff;
+    display: block;
+    text-decoration: none;
+    transition: color 1s ease;
+    font-size: 22px;
+  }
+  
+  nav {
+    display: block;
+    width: 100%;
+    height: 10%;
+    position: fixed;
+    z-index: 2;
+    padding-bottom: 27px;
+    background-color: #162a33;
+    border-bottom: 2px solid #fff;
+  }
+  nav .active a {
+      color: darkorange;
+  }
+  
+  @media (max-width: 320px) {
+    nav {
+      padding-bottom: 27px;
+    }
+  }
+  
+  li:hover a{
+    color: darkorange;
+    
+  }
